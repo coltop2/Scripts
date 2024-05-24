@@ -1,0 +1,81 @@
+! Sample extraction
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\Comparison Template\2xCal\4x_1.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\Comparison Template\2xCal\4x_2.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\Comparison Template\Data (rename this)\2126750250 2xCal.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\Comparison Template\Data (rename this)\inputs\2xcal\4x_1.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\Comparison Template\Data (rename this)\inputs\2xcal\4x_2.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\MEL-1095 Cable Flex\Zips\2126750250 2xCal.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\MEL-1095 Cable Flex\Zips\2167050250_1.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\MEL-1095 Cable Flex\Zips\2167050250_2.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\MEL-1095 Cable Flex\Zips\inputs\2xcal\4x_1.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+
+# isd
+test_coupon C:\Users\coltop2\OneDrive - kochind.com\Documents\Test Data\2126750250 2xCal.s4p
+dut_fixture \\ma2vwfp01\HPC_Group\Engineering\EE_Testing\High Performance Testers\TCR_Testing\Test Data\TCR-27 DDQ-112 30 AWG Low Temp AWS Scratchpad\MEL-1095 Cable Flex\Zips\inputs\2xcal\4x_2.s4p
+linear_2x 3
+port_order 2
+smooth_dut 2
+passive 1
+

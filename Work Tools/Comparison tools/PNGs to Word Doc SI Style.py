@@ -21,7 +21,7 @@ def rename_files(png_folder):
 
 def main():
     ROOT = os.getcwd()
-    template_path = "\\\ma2vwfp01\\HPC_Group\\Temporary_Share\\Colton Petty\\Comprobot report template\\Template.docx"
+    template_path = "\\\\ma2vwfp01\\HPC_Group\\Temporary_Share\\Colton Petty\\Comprobot report template\\Template.docx"
     document = Document(template_path)
 
     png_folder = input("Enter the path to the folder containing PNG files: ")
@@ -43,7 +43,7 @@ def main():
     output_file_path = os.path.join(output_path, output_file_name + '.docx')
 
     document.save(output_file_path)
-    os.startfile(output_file_path)
+    #os.startfile(output_file_path)
 
 if __name__ == '__main__':
     main()
